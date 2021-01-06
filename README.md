@@ -45,7 +45,7 @@ For SQL practice
 1212	Medium	Team Scores in Football Tournament    	56.70%
 1341	Medium	Movie Rating    	58.20%
 1501	Medium	Countries You Can Safely Invest In    	60.10%
-612	Medium	Shortest Distance in a Plane    	60.80%
+1st 612	Medium	Shortest Distance in a Plane    	60.80%
 1174	Medium	Immediate Food Delivery II    	60.80%
 1158	Medium	Market Analysis I    	63.40%
 1459	Medium	Rectangles Area    	64.20%
